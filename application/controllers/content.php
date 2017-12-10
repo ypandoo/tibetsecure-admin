@@ -65,7 +65,7 @@ class Content extends CI_Controller {
       $fileParts = pathinfo($original_name);
       $namewithoutpath = $image_id.'.'.$fileParts['extension'];
       if ($namewithoutpath) {
-        $full_path = $_SERVER['DOCUMENT_ROOT']."/vnewcd/shannan/uploads/cover/".$namewithoutpath;
+        $full_path = $_SERVER['DOCUMENT_ROOT']."/vnewcd/tibetsecure-admin/uploads/cover/".$namewithoutpath;
         move_uploaded_file($_FILES["file"]["tmp_name"], $full_path);
         $result["success"] = 1;
         $result['message'] = "Upload success!";

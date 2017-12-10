@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>微山南管理系统</title>
+    <title>西藏安监管理系统</title>
     <link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 
@@ -25,7 +25,7 @@
       <div class="row">
         <?php include 'admin_sidebar.php' ?>
           <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
-          <h2 class="sub-header">欢迎使用微山南管理系统！</h2>
+          <h2 class="sub-header">欢迎使用西藏安监管理系统！</h2>
 
           <div class="row">
             <div class="col-sm-6 col-md-4">
