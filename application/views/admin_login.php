@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>微山南</title>
+    <title>西藏安监</title>
 
     <link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -21,7 +21,7 @@
     <div class="container">
 
       <div class="form-signin">
-        <h2 class="header">欢迎登录微山南一站式微信信息服务管理系统</h2>
+        <h2 class="header">欢迎登录西藏安监一站式微信信息服务管理系统</h2>
         <label for="name" class="sr-only">请输入管理员名称</label>
         <input type="text" id="name" class="form-control" placeholder="请输入管理员名称" required autofocus>
         <label for="password" class="sr-only">请输入密码</label>
